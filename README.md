@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/balagpathak) 
-[![LinkedIn](logoColor=white)](www.linkedin.com/in/balaji-pathak) 
+[![LinkedIn]](www.linkedin.com/in/balaji-pathak) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Balajipathak301&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
