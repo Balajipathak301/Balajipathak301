@@ -3,8 +3,6 @@
 [[Instagram]](https://instagram.com/balagpathak) 
 [[LinkedIn]](https://www.linkedin.com/in/balaji-pathak)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Balajipathak301&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balajipathak301&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
