@@ -1,3 +1,6 @@
+Hi, I'm Balaji Pathak! 👋
+I am a First-Year BTech student majoring in Computer Science and Engineering with a specialization in AI and Machine Learning (CSE AI/ML). 
+I hope to learn how to build intelligent machine learning models, understand deep learning architectures, and develop scalable software solutions during my time at college.
 
 ## 🌐 Socials:
 [[Instagram]](https://instagram.com/balagpathak) 
